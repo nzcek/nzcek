@@ -1,6 +1,6 @@
-Check this shit out
-boom
-bam
-bop
-batta bop boop
-pow
+Check this shit out. 
+boom,
+bam,
+bop,
+batta bop boop,
+pow!
